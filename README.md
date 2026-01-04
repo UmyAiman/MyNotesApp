@@ -32,9 +32,3 @@ Source Code
 
 GitHub Repository:  
  https://github.com/UmyAiman/MyNotesApp
-
-
-## 👩‍💻 Developed By
-
-**Ume Aiman**  
-Mobile Application Development
